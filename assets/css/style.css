@@ -185,7 +185,7 @@ section {
 
 /* WHAT YOU DO STYLES START */
 .steps {
-    background: #fce138;
+    background-color: #fce138;
 }
 
 .step {
@@ -219,17 +219,18 @@ section {
 
 .step-img img {
     max-width: 100%;
-  }
+}
 
 .step-text {
     flex: 12;
 }
 
-.steps-text p {
+.step-text p {
     color: #39a6b2;
     font-size: 18px;
 }
-.steps h4 {
+
+.step-text h4 {
     font-size: 26px;
     line-height: 1.5;
     color: #024e76;
@@ -347,13 +348,7 @@ section {
 /* REACH OUT STYLES END */
 
 /* UTILITIES */
-.text-left {
-    text-align: left;
-}
-  
-.text-right {
-    text-align: right;
-}
   
 .flex-row {
     display: flex;
+}

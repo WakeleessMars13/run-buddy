@@ -457,7 +457,7 @@ section {
 .contact-form input, .contact-form textarea:focus {
     background-color: rgba(255,255,255, 1);
     outline: none;
-
+}
 .contact-form button {
     width: 100%;
     border: none;
